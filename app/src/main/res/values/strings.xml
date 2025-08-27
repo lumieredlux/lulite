@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LuLite</string>
+    <string name="notif_channel_name">LuLite Streaming</string>
+    <string name="notif_channel_desc">Foreground streaming service</string>
+</resources>
